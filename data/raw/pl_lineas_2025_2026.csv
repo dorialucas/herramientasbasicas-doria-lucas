@@ -1,0 +1,526 @@
+hoja;anio;mes;concepto;escenario;valor_usd
+Fractura;2026;ENERO;Resultado Operativo;Real;4070504.89
+Fractura;2026;ENERO;Mano de Obra Directa;Real;-723425.1
+Fractura;2026;ENERO;Mano de Obra Indirecta;Real;-80813.13
+Fractura;2026;ENERO;Costo Total;Real;-1652312.62
+Fractura;2026;ENERO;Margen Bruto;Real;2418192.26
+SBDP;2026;ENERO;Resultado Operativo;Real;742167.0
+SBDP;2026;ENERO;Mano de Obra Directa;Real;-315751.6
+SBDP;2026;ENERO;Mano de Obra Indirecta;Real;-51951.3
+SBDP;2026;ENERO;Costo Total;Real;-482024.3
+SBDP;2026;ENERO;Margen Bruto;Real;260142.7
+WellTesting;2026;ENERO;Resultado Operativo;Real;1358168.49
+WellTesting;2026;ENERO;Mano de Obra Directa;Real;-429899.17
+WellTesting;2026;ENERO;Mano de Obra Indirecta;Real;-40406.56
+WellTesting;2026;ENERO;Costo Total;Real;-734147.58
+WellTesting;2026;ENERO;Margen Bruto;Real;624020.92
+Wireline;2026;ENERO;Resultado Operativo;Real;215999.84
+Wireline;2026;ENERO;Mano de Obra Directa;Real;-159970.88
+Wireline;2026;ENERO;Mano de Obra Indirecta;Real;-19241.22
+Wireline;2026;ENERO;Costo Total;Real;-205962.92
+Wireline;2026;ENERO;Margen Bruto;Real;10036.92
+P&L 2026;2026;ENERO;Resultado Operativo;Real;6514577.03
+P&L 2026;2026;ENERO;Mano de Obra Directa;Real;-1629046.75
+P&L 2026;2026;ENERO;Mano de Obra Indirecta;Real;-192412.21
+P&L 2026;2026;ENERO;Costo Total;Real;-3074447.42
+P&L 2026;2026;ENERO;Margen Bruto;Real;3440129.61
+Fractura;2026;FEBRERO;Resultado Operativo;Real;3992534.3
+Fractura;2026;FEBRERO;Mano de Obra Directa;Real;-718008.63
+Fractura;2026;FEBRERO;Mano de Obra Indirecta;Real;-68206.72
+Fractura;2026;FEBRERO;Costo Total;Real;-1513402.07
+Fractura;2026;FEBRERO;Margen Bruto;Real;2479132.23
+SBDP;2026;FEBRERO;Resultado Operativo;Real;837567.73
+SBDP;2026;FEBRERO;Mano de Obra Directa;Real;-331580.52
+SBDP;2026;FEBRERO;Mano de Obra Indirecta;Real;-43847.18
+SBDP;2026;FEBRERO;Costo Total;Real;-523292.19
+SBDP;2026;FEBRERO;Margen Bruto;Real;314275.54
+WellTesting;2026;FEBRERO;Resultado Operativo;Real;1442882.8
+WellTesting;2026;FEBRERO;Mano de Obra Directa;Real;-443839.07
+WellTesting;2026;FEBRERO;Mano de Obra Indirecta;Real;-34103.36
+WellTesting;2026;FEBRERO;Costo Total;Real;-776100.84
+WellTesting;2026;FEBRERO;Margen Bruto;Real;666781.96
+Wireline;2026;FEBRERO;Resultado Operativo;Real;307339.96
+Wireline;2026;FEBRERO;Mano de Obra Directa;Real;-185563.28
+Wireline;2026;FEBRERO;Mano de Obra Indirecta;Real;-16239.69
+Wireline;2026;FEBRERO;Costo Total;Real;-242873.73
+Wireline;2026;FEBRERO;Margen Bruto;Real;64466.23
+P&L 2026;2026;FEBRERO;Resultado Operativo;Real;6711931.28
+P&L 2026;2026;FEBRERO;Mano de Obra Directa;Real;-1678991.51
+P&L 2026;2026;FEBRERO;Mano de Obra Indirecta;Real;-162396.95
+P&L 2026;2026;FEBRERO;Costo Total;Real;-3055668.83
+P&L 2026;2026;FEBRERO;Margen Bruto;Real;3656262.46
+Fractura;2026;MARZO;Resultado Operativo;Real;3450364.21
+Fractura;2026;MARZO;Mano de Obra Directa;Real;-716356.63
+Fractura;2026;MARZO;Mano de Obra Indirecta;Real;-72994.42
+Fractura;2026;MARZO;Costo Total;Real;-1565421.09
+Fractura;2026;MARZO;Margen Bruto;Real;1884943.12
+SBDP;2026;MARZO;Resultado Operativo;Real;989436.12
+SBDP;2026;MARZO;Mano de Obra Directa;Real;-355458.21
+SBDP;2026;MARZO;Mano de Obra Indirecta;Real;-46924.98
+SBDP;2026;MARZO;Costo Total;Real;-575701.6
+SBDP;2026;MARZO;Margen Bruto;Real;413734.51
+WellTesting;2026;MARZO;Resultado Operativo;Real;1631872.87
+WellTesting;2026;MARZO;Mano de Obra Directa;Real;-462278.82
+WellTesting;2026;MARZO;Mano de Obra Indirecta;Real;-36497.21
+WellTesting;2026;MARZO;Costo Total;Real;-900035.43
+WellTesting;2026;MARZO;Margen Bruto;Real;731837.44
+Wireline;2026;MARZO;Resultado Operativo;Real;386632.32
+Wireline;2026;MARZO;Mano de Obra Directa;Real;-198859.06
+Wireline;2026;MARZO;Mano de Obra Indirecta;Real;-17379.62
+Wireline;2026;MARZO;Costo Total;Real;-281390.81
+Wireline;2026;MARZO;Margen Bruto;Real;105241.51
+P&L 2026;2026;MARZO;Resultado Operativo;Real;6587471.62
+P&L 2026;2026;MARZO;Mano de Obra Directa;Real;-1732952.72
+P&L 2026;2026;MARZO;Mano de Obra Indirecta;Real;-173796.23
+P&L 2026;2026;MARZO;Costo Total;Real;-3322548.93
+P&L 2026;2026;MARZO;Margen Bruto;Real;3264922.69
+Fractura;2026;ABRIL;Resultado Operativo;Real;3066365.12
+Fractura;2026;ABRIL;Mano de Obra Directa;Real;-725343.27
+Fractura;2026;ABRIL;Mano de Obra Indirecta;Real;-77867.87
+Fractura;2026;ABRIL;Costo Total;Real;-1301355.34
+Fractura;2026;ABRIL;Margen Bruto;Real;1765009.78
+SBDP;2026;ABRIL;Resultado Operativo;Real;1222692.76
+SBDP;2026;ABRIL;Mano de Obra Directa;Real;-372934.02
+SBDP;2026;ABRIL;Mano de Obra Indirecta;Real;-50057.92
+SBDP;2026;ABRIL;Costo Total;Real;-695733.06
+SBDP;2026;ABRIL;Margen Bruto;Real;526959.7
+WellTesting;2026;ABRIL;Resultado Operativo;Real;1536370.48
+WellTesting;2026;ABRIL;Mano de Obra Directa;Real;-463050.25
+WellTesting;2026;ABRIL;Mano de Obra Indirecta;Real;-38933.94
+WellTesting;2026;ABRIL;Costo Total;Real;-811988.13
+WellTesting;2026;ABRIL;Margen Bruto;Real;724382.35
+Wireline;2026;ABRIL;Resultado Operativo;Real;427168.4
+Wireline;2026;ABRIL;Mano de Obra Directa;Real;-201507.48
+Wireline;2026;ABRIL;Mano de Obra Indirecta;Real;-18539.97
+Wireline;2026;ABRIL;Costo Total;Real;-288913.63
+Wireline;2026;ABRIL;Margen Bruto;Real;138254.77
+P&L 2026;2026;ABRIL;Resultado Operativo;Real;6377648.69
+P&L 2026;2026;ABRIL;Mano de Obra Directa;Real;-1762835.02
+P&L 2026;2026;ABRIL;Mano de Obra Indirecta;Real;-185399.7
+P&L 2026;2026;ABRIL;Costo Total;Real;-3097990.15
+P&L 2026;2026;ABRIL;Margen Bruto;Real;3279658.54
+Fractura;2026;MAYO;Resultado Operativo;Real;3410024.15
+Fractura;2026;MAYO;Mano de Obra Directa;Real;-729955.3
+Fractura;2026;MAYO;Mano de Obra Indirecta;Real;-79524.59
+Fractura;2026;MAYO;Costo Total;Real;-1381737.6
+Fractura;2026;MAYO;Margen Bruto;Real;2028286.55
+SBDP;2026;MAYO;Resultado Operativo;Real;1452391.62
+SBDP;2026;MAYO;Mano de Obra Directa;Real;-401156.05
+SBDP;2026;MAYO;Mano de Obra Indirecta;Real;-51122.95
+SBDP;2026;MAYO;Costo Total;Real;-744445.72
+SBDP;2026;MAYO;Margen Bruto;Real;707945.9
+WellTesting;2026;MAYO;Resultado Operativo;Real;1920711.22
+WellTesting;2026;MAYO;Mano de Obra Directa;Real;-485669.06
+WellTesting;2026;MAYO;Mano de Obra Indirecta;Real;-39762.29
+WellTesting;2026;MAYO;Costo Total;Real;-945828.83
+WellTesting;2026;MAYO;Margen Bruto;Real;974882.39
+Wireline;2026;MAYO;Resultado Operativo;Real;523364.96
+Wireline;2026;MAYO;Mano de Obra Directa;Real;-229685.79
+Wireline;2026;MAYO;Mano de Obra Indirecta;Real;-18934.43
+Wireline;2026;MAYO;Costo Total;Real;-356481.16
+Wireline;2026;MAYO;Margen Bruto;Real;166883.8
+P&L 2026;2026;MAYO;Resultado Operativo;Real;7452621.78
+P&L 2026;2026;MAYO;Mano de Obra Directa;Real;-1846466.2
+P&L 2026;2026;MAYO;Mano de Obra Indirecta;Real;-189344.26
+P&L 2026;2026;MAYO;Costo Total;Real;-3428493.31
+P&L 2026;2026;MAYO;Margen Bruto;Real;4024128.47
+Fractura;2026;JUNIO;Resultado Operativo;Real;3821005.57
+Fractura;2026;JUNIO;Mano de Obra Directa;Real;-1045404.51
+Fractura;2026;JUNIO;Mano de Obra Indirecta;Real;-118633.92
+Fractura;2026;JUNIO;Costo Total;Real;-2085009.77
+Fractura;2026;JUNIO;Margen Bruto;Real;1735995.8
+SBDP;2026;JUNIO;Resultado Operativo;Real;1759454.12
+SBDP;2026;JUNIO;Mano de Obra Directa;Real;-605693.45
+SBDP;2026;JUNIO;Mano de Obra Indirecta;Real;-76264.67
+SBDP;2026;JUNIO;Costo Total;Real;-953830.27
+SBDP;2026;JUNIO;Margen Bruto;Real;805623.85
+WellTesting;2026;JUNIO;Resultado Operativo;Real;2020503.03
+WellTesting;2026;JUNIO;Mano de Obra Directa;Real;-672761.14
+WellTesting;2026;JUNIO;Mano de Obra Indirecta;Real;-59316.96
+WellTesting;2026;JUNIO;Costo Total;Real;-1174194.54
+WellTesting;2026;JUNIO;Margen Bruto;Real;846308.49
+Wireline;2026;JUNIO;Resultado Operativo;Real;630212.77
+Wireline;2026;JUNIO;Mano de Obra Directa;Real;-328044.78
+Wireline;2026;JUNIO;Mano de Obra Indirecta;Real;-28246.17
+Wireline;2026;JUNIO;Costo Total;Real;-448263.99
+Wireline;2026;JUNIO;Margen Bruto;Real;181948.78
+P&L 2026;2026;JUNIO;Resultado Operativo;Real;8395798.99
+P&L 2026;2026;JUNIO;Mano de Obra Directa;Real;-2651903.88
+P&L 2026;2026;JUNIO;Mano de Obra Indirecta;Real;-282461.73
+P&L 2026;2026;JUNIO;Costo Total;Real;-4661298.56
+P&L 2026;2026;JUNIO;Margen Bruto;Real;3734500.43
+Fractura;2026;JULIO;Resultado Operativo;Real;3122451.17
+Fractura;2026;JULIO;Mano de Obra Directa;Real;-703104.38
+Fractura;2026;JULIO;Mano de Obra Indirecta;Real;-80566.83
+Fractura;2026;JULIO;Costo Total;Real;-1292716.81
+Fractura;2026;JULIO;Margen Bruto;Real;1829734.36
+SBDP;2026;JULIO;Resultado Operativo;Real;2182106.16
+SBDP;2026;JULIO;Mano de Obra Directa;Real;-434931.46
+SBDP;2026;JULIO;Mano de Obra Indirecta;Real;-51792.96
+SBDP;2026;JULIO;Costo Total;Real;-990467.35
+SBDP;2026;JULIO;Margen Bruto;Real;1191638.81
+WellTesting;2026;JULIO;Resultado Operativo;Real;1582067.69
+WellTesting;2026;JULIO;Mano de Obra Directa;Real;-491394.52
+WellTesting;2026;JULIO;Mano de Obra Indirecta;Real;-40283.42
+WellTesting;2026;JULIO;Costo Total;Real;-919047.33
+WellTesting;2026;JULIO;Margen Bruto;Real;663020.36
+Wireline;2026;JULIO;Resultado Operativo;Real;829173.12
+Wireline;2026;JULIO;Mano de Obra Directa;Real;-263436.74
+Wireline;2026;JULIO;Mano de Obra Indirecta;Real;-19182.58
+Wireline;2026;JULIO;Costo Total;Real;-484309.8
+Wireline;2026;JULIO;Margen Bruto;Real;344863.32
+P&L 2026;2026;JULIO;Resultado Operativo;Real;7870114.1
+P&L 2026;2026;JULIO;Mano de Obra Directa;Real;-1892867.1
+P&L 2026;2026;JULIO;Mano de Obra Indirecta;Real;-191825.79
+P&L 2026;2026;JULIO;Costo Total;Real;-3686541.28
+P&L 2026;2026;JULIO;Margen Bruto;Real;4183572.81
+Fractura;2026;AGOSTO;Resultado Operativo;Real;3380509.71
+Fractura;2026;AGOSTO;Mano de Obra Directa;Real;-691612.73
+Fractura;2026;AGOSTO;Mano de Obra Indirecta;Real;-83630.09
+Fractura;2026;AGOSTO;Costo Total;Real;-1514598.15
+Fractura;2026;AGOSTO;Margen Bruto;Real;1865911.56
+SBDP;2026;AGOSTO;Resultado Operativo;Real;2002888.88
+SBDP;2026;AGOSTO;Mano de Obra Directa;Real;-463941.41
+SBDP;2026;AGOSTO;Mano de Obra Indirecta;Real;-53762.2
+SBDP;2026;AGOSTO;Costo Total;Real;-1020457.7
+SBDP;2026;AGOSTO;Margen Bruto;Real;982431.18
+WellTesting;2026;AGOSTO;Resultado Operativo;Real;1852728.7
+WellTesting;2026;AGOSTO;Mano de Obra Directa;Real;-500609.12
+WellTesting;2026;AGOSTO;Mano de Obra Indirecta;Real;-41815.04
+WellTesting;2026;AGOSTO;Costo Total;Real;-849284.82
+WellTesting;2026;AGOSTO;Margen Bruto;Real;1003443.88
+Wireline;2026;AGOSTO;Resultado Operativo;Real;933472.12
+Wireline;2026;AGOSTO;Mano de Obra Directa;Real;-283048.35
+Wireline;2026;AGOSTO;Mano de Obra Indirecta;Real;-19911.93
+Wireline;2026;AGOSTO;Costo Total;Real;-509107.56
+Wireline;2026;AGOSTO;Margen Bruto;Real;424364.57
+P&L 2026;2026;AGOSTO;Resultado Operativo;Real;8332991.4
+P&L 2026;2026;AGOSTO;Mano de Obra Directa;Real;-1939211.6
+P&L 2026;2026;AGOSTO;Mano de Obra Indirecta;Real;-199119.25
+P&L 2026;2026;AGOSTO;Costo Total;Real;-3893448.23
+P&L 2026;2026;AGOSTO;Margen Bruto;Real;4439543.17
+Fractura;2026;SEPTIEMBRE;Resultado Operativo;Real;2936799.17
+Fractura;2026;SEPTIEMBRE;Mano de Obra Directa;Real;-667121.82
+Fractura;2026;SEPTIEMBRE;Mano de Obra Indirecta;Real;-87020.81
+Fractura;2026;SEPTIEMBRE;Costo Total;Real;-1268520.2
+Fractura;2026;SEPTIEMBRE;Margen Bruto;Real;1668278.97
+SBDP;2026;SEPTIEMBRE;Resultado Operativo;Real;2237991.28
+SBDP;2026;SEPTIEMBRE;Mano de Obra Directa;Real;-471719.86
+SBDP;2026;SEPTIEMBRE;Mano de Obra Indirecta;Real;-55941.95
+SBDP;2026;SEPTIEMBRE;Costo Total;Real;-1065292.3
+SBDP;2026;SEPTIEMBRE;Margen Bruto;Real;1172698.98
+WellTesting;2026;SEPTIEMBRE;Resultado Operativo;Real;2044063.92
+WellTesting;2026;SEPTIEMBRE;Mano de Obra Directa;Real;-491646.19
+WellTesting;2026;SEPTIEMBRE;Mano de Obra Indirecta;Real;-43510.41
+WellTesting;2026;SEPTIEMBRE;Costo Total;Real;-944432.89
+WellTesting;2026;SEPTIEMBRE;Margen Bruto;Real;1099631.03
+Wireline;2026;SEPTIEMBRE;Resultado Operativo;Real;1002194.03
+Wireline;2026;SEPTIEMBRE;Mano de Obra Directa;Real;-275401.0
+Wireline;2026;SEPTIEMBRE;Mano de Obra Indirecta;Real;-20719.24
+Wireline;2026;SEPTIEMBRE;Costo Total;Real;-526293.07
+Wireline;2026;SEPTIEMBRE;Margen Bruto;Real;475900.96
+P&L 2026;2026;SEPTIEMBRE;Resultado Operativo;Real;8385469.36
+P&L 2026;2026;SEPTIEMBRE;Mano de Obra Directa;Real;-1905888.87
+P&L 2026;2026;SEPTIEMBRE;Mano de Obra Indirecta;Real;-207192.41
+P&L 2026;2026;SEPTIEMBRE;Costo Total;Real;-3804538.46
+P&L 2026;2026;SEPTIEMBRE;Margen Bruto;Real;4580930.9
+Fractura;2025;ENERO;Resultado Operativo;Real;3177816.81
+Fractura;2025;ENERO;Mano de Obra Directa;Real;-606827.4
+Fractura;2025;ENERO;Mano de Obra Indirecta;Real;-69499.29
+Fractura;2025;ENERO;Costo Total;Real;-1293852.75
+Fractura;2025;ENERO;Margen Bruto;Real;1883964.06
+SBDP;2025;ENERO;Resultado Operativo;Real;746034.31
+SBDP;2025;ENERO;Mano de Obra Directa;Real;-257171.92
+SBDP;2025;ENERO;Mano de Obra Indirecta;Real;-44678.12
+SBDP;2025;ENERO;Costo Total;Real;-433829.73
+SBDP;2025;ENERO;Margen Bruto;Real;312204.58
+WellTesting;2025;ENERO;Resultado Operativo;Real;1056392.35
+WellTesting;2025;ENERO;Mano de Obra Directa;Real;-360037.25
+WellTesting;2025;ENERO;Mano de Obra Indirecta;Real;-34749.65
+WellTesting;2025;ENERO;Costo Total;Real;-612733.59
+WellTesting;2025;ENERO;Margen Bruto;Real;443658.76
+Wireline;2025;ENERO;Resultado Operativo;Real;270204.08
+Wireline;2025;ENERO;Mano de Obra Directa;Real;-139164.0
+Wireline;2025;ENERO;Mano de Obra Indirecta;Real;-16547.45
+Wireline;2025;ENERO;Costo Total;Real;-214520.66
+Wireline;2025;ENERO;Margen Bruto;Real;55683.42
+P&L 2025;2025;ENERO;Resultado Operativo;Real;5355456.51
+P&L 2025;2025;ENERO;Mano de Obra Directa;Real;-1363200.56
+P&L 2025;2025;ENERO;Mano de Obra Indirecta;Real;-165474.5
+P&L 2025;2025;ENERO;Costo Total;Real;-2554936.73
+P&L 2025;2025;ENERO;Margen Bruto;Real;2800519.78
+Fractura;2025;FEBRERO;Resultado Operativo;Real;3165433.47
+Fractura;2025;FEBRERO;Mano de Obra Directa;Real;-646294.14
+Fractura;2025;FEBRERO;Mano de Obra Indirecta;Real;-69499.29
+Fractura;2025;FEBRERO;Costo Total;Real;-1298213.32
+Fractura;2025;FEBRERO;Margen Bruto;Real;1867220.14
+SBDP;2025;FEBRERO;Resultado Operativo;Real;753982.3
+SBDP;2025;FEBRERO;Mano de Obra Directa;Real;-277529.19
+SBDP;2025;FEBRERO;Mano de Obra Indirecta;Real;-44678.12
+SBDP;2025;FEBRERO;Costo Total;Real;-459747.06
+SBDP;2025;FEBRERO;Margen Bruto;Real;294235.23
+WellTesting;2025;FEBRERO;Resultado Operativo;Real;1099001.19
+WellTesting;2025;FEBRERO;Mano de Obra Directa;Real;-351471.99
+WellTesting;2025;FEBRERO;Mano de Obra Indirecta;Real;-34749.65
+WellTesting;2025;FEBRERO;Costo Total;Real;-624670.15
+WellTesting;2025;FEBRERO;Margen Bruto;Real;474331.04
+Wireline;2025;FEBRERO;Resultado Operativo;Real;235706.9
+Wireline;2025;FEBRERO;Mano de Obra Directa;Real;-135317.81
+Wireline;2025;FEBRERO;Mano de Obra Indirecta;Real;-16547.45
+Wireline;2025;FEBRERO;Costo Total;Real;-194784.93
+Wireline;2025;FEBRERO;Margen Bruto;Real;40921.98
+P&L 2025;2025;FEBRERO;Resultado Operativo;Real;5359206.33
+P&L 2025;2025;FEBRERO;Mano de Obra Directa;Real;-1410613.13
+P&L 2025;2025;FEBRERO;Mano de Obra Indirecta;Real;-165474.5
+P&L 2025;2025;FEBRERO;Costo Total;Real;-2577415.46
+P&L 2025;2025;FEBRERO;Margen Bruto;Real;2781790.87
+Fractura;2025;MARZO;Resultado Operativo;Real;2955641.63
+Fractura;2025;MARZO;Mano de Obra Directa;Real;-603838.41
+Fractura;2025;MARZO;Mano de Obra Indirecta;Real;-69499.29
+Fractura;2025;MARZO;Costo Total;Real;-1291816.84
+Fractura;2025;MARZO;Margen Bruto;Real;1663824.79
+SBDP;2025;MARZO;Resultado Operativo;Real;709637.71
+SBDP;2025;MARZO;Mano de Obra Directa;Real;-270665.81
+SBDP;2025;MARZO;Mano de Obra Indirecta;Real;-44678.12
+SBDP;2025;MARZO;Costo Total;Real;-449139.02
+SBDP;2025;MARZO;Margen Bruto;Real;260498.69
+WellTesting;2025;MARZO;Resultado Operativo;Real;1292971.99
+WellTesting;2025;MARZO;Mano de Obra Directa;Real;-388733.55
+WellTesting;2025;MARZO;Mano de Obra Indirecta;Real;-34749.65
+WellTesting;2025;MARZO;Costo Total;Real;-632220.92
+WellTesting;2025;MARZO;Margen Bruto;Real;660751.07
+Wireline;2025;MARZO;Resultado Operativo;Real;256250.72
+Wireline;2025;MARZO;Mano de Obra Directa;Real;-140015.87
+Wireline;2025;MARZO;Mano de Obra Indirecta;Real;-16547.45
+Wireline;2025;MARZO;Costo Total;Real;-204074.23
+Wireline;2025;MARZO;Margen Bruto;Real;52176.49
+P&L 2025;2025;MARZO;Resultado Operativo;Real;5318792.1
+P&L 2025;2025;MARZO;Mano de Obra Directa;Real;-1403253.63
+P&L 2025;2025;MARZO;Mano de Obra Indirecta;Real;-165474.5
+P&L 2025;2025;MARZO;Costo Total;Real;-2577251.01
+P&L 2025;2025;MARZO;Margen Bruto;Real;2741541.08
+Fractura;2025;ABRIL;Resultado Operativo;Real;3204391.51
+Fractura;2025;ABRIL;Mano de Obra Directa;Real;-668866.68
+Fractura;2025;ABRIL;Mano de Obra Indirecta;Real;-69499.29
+Fractura;2025;ABRIL;Costo Total;Real;-1439392.25
+Fractura;2025;ABRIL;Margen Bruto;Real;1764999.26
+SBDP;2025;ABRIL;Resultado Operativo;Real;849568.9
+SBDP;2025;ABRIL;Mano de Obra Directa;Real;-273294.26
+SBDP;2025;ABRIL;Mano de Obra Indirecta;Real;-44678.12
+SBDP;2025;ABRIL;Costo Total;Real;-475295.36
+SBDP;2025;ABRIL;Margen Bruto;Real;374273.53
+WellTesting;2025;ABRIL;Resultado Operativo;Real;1332719.34
+WellTesting;2025;ABRIL;Mano de Obra Directa;Real;-377530.88
+WellTesting;2025;ABRIL;Mano de Obra Indirecta;Real;-34749.65
+WellTesting;2025;ABRIL;Costo Total;Real;-715334.41
+WellTesting;2025;ABRIL;Margen Bruto;Real;617384.93
+Wireline;2025;ABRIL;Resultado Operativo;Real;222328.0
+Wireline;2025;ABRIL;Mano de Obra Directa;Real;-138084.65
+Wireline;2025;ABRIL;Mano de Obra Indirecta;Real;-16547.45
+Wireline;2025;ABRIL;Costo Total;Real;-178881.41
+Wireline;2025;ABRIL;Margen Bruto;Real;43446.6
+P&L 2025;2025;ABRIL;Resultado Operativo;Real;5721187.91
+P&L 2025;2025;ABRIL;Mano de Obra Directa;Real;-1457776.46
+P&L 2025;2025;ABRIL;Mano de Obra Indirecta;Real;-165474.5
+P&L 2025;2025;ABRIL;Costo Total;Real;-2808903.43
+P&L 2025;2025;ABRIL;Margen Bruto;Real;2912284.47
+Fractura;2025;MAYO;Resultado Operativo;Real;3029728.14
+Fractura;2025;MAYO;Mano de Obra Directa;Real;-631083.93
+Fractura;2025;MAYO;Mano de Obra Indirecta;Real;-69499.29
+Fractura;2025;MAYO;Costo Total;Real;-1317172.08
+Fractura;2025;MAYO;Margen Bruto;Real;1712556.05
+SBDP;2025;MAYO;Resultado Operativo;Real;744606.75
+SBDP;2025;MAYO;Mano de Obra Directa;Real;-276923.52
+SBDP;2025;MAYO;Mano de Obra Indirecta;Real;-44678.12
+SBDP;2025;MAYO;Costo Total;Real;-415686.39
+SBDP;2025;MAYO;Margen Bruto;Real;328920.35
+WellTesting;2025;MAYO;Resultado Operativo;Real;1289358.15
+WellTesting;2025;MAYO;Mano de Obra Directa;Real;-392631.31
+WellTesting;2025;MAYO;Mano de Obra Indirecta;Real;-34749.65
+WellTesting;2025;MAYO;Costo Total;Real;-661834.38
+WellTesting;2025;MAYO;Margen Bruto;Real;627523.78
+Wireline;2025;MAYO;Resultado Operativo;Real;224389.15
+Wireline;2025;MAYO;Mano de Obra Directa;Real;-127079.17
+Wireline;2025;MAYO;Mano de Obra Indirecta;Real;-16547.45
+Wireline;2025;MAYO;Costo Total;Real;-168342.54
+Wireline;2025;MAYO;Margen Bruto;Real;56046.61
+P&L 2025;2025;MAYO;Resultado Operativo;Real;5393843.84
+P&L 2025;2025;MAYO;Mano de Obra Directa;Real;-1427717.94
+P&L 2025;2025;MAYO;Mano de Obra Indirecta;Real;-165474.5
+P&L 2025;2025;MAYO;Costo Total;Real;-2563035.4
+P&L 2025;2025;MAYO;Margen Bruto;Real;2830808.44
+Fractura;2025;JUNIO;Resultado Operativo;Real;3294144.04
+Fractura;2025;JUNIO;Mano de Obra Directa;Real;-837675.57
+Fractura;2025;JUNIO;Mano de Obra Indirecta;Real;-90349.08
+Fractura;2025;JUNIO;Costo Total;Real;-1547632.57
+Fractura;2025;JUNIO;Margen Bruto;Real;1746511.47
+SBDP;2025;JUNIO;Resultado Operativo;Real;745521.23
+SBDP;2025;JUNIO;Mano de Obra Directa;Real;-346012.38
+SBDP;2025;JUNIO;Mano de Obra Indirecta;Real;-58081.55
+SBDP;2025;JUNIO;Costo Total;Real;-508287.04
+SBDP;2025;JUNIO;Margen Bruto;Real;237234.19
+WellTesting;2025;JUNIO;Resultado Operativo;Real;1143596.71
+WellTesting;2025;JUNIO;Mano de Obra Directa;Real;-483721.07
+WellTesting;2025;JUNIO;Mano de Obra Indirecta;Real;-45174.54
+WellTesting;2025;JUNIO;Costo Total;Real;-780173.97
+WellTesting;2025;JUNIO;Margen Bruto;Real;363422.74
+Wireline;2025;JUNIO;Resultado Operativo;Real;256059.94
+Wireline;2025;JUNIO;Mano de Obra Directa;Real;-182382.34
+Wireline;2025;JUNIO;Mano de Obra Indirecta;Real;-21511.69
+Wireline;2025;JUNIO;Costo Total;Real;-239425.62
+Wireline;2025;JUNIO;Margen Bruto;Real;16634.32
+P&L 2025;2025;JUNIO;Resultado Operativo;Real;5548108.37
+P&L 2025;2025;JUNIO;Mano de Obra Directa;Real;-1849791.36
+P&L 2025;2025;JUNIO;Mano de Obra Indirecta;Real;-215116.85
+P&L 2025;2025;JUNIO;Costo Total;Real;-3075519.21
+P&L 2025;2025;JUNIO;Margen Bruto;Real;2472589.16
+Fractura;2025;JULIO;Resultado Operativo;Real;3094642.59
+Fractura;2025;JULIO;Mano de Obra Directa;Real;-621021.23
+Fractura;2025;JULIO;Mano de Obra Indirecta;Real;-69499.29
+Fractura;2025;JULIO;Costo Total;Real;-1268041.54
+Fractura;2025;JULIO;Margen Bruto;Real;1826601.04
+SBDP;2025;JULIO;Resultado Operativo;Real;816123.94
+SBDP;2025;JULIO;Mano de Obra Directa;Real;-282204.88
+SBDP;2025;JULIO;Mano de Obra Indirecta;Real;-44678.12
+SBDP;2025;JULIO;Costo Total;Real;-438020.94
+SBDP;2025;JULIO;Margen Bruto;Real;378103.0
+WellTesting;2025;JULIO;Resultado Operativo;Real;1232446.88
+WellTesting;2025;JULIO;Mano de Obra Directa;Real;-379269.19
+WellTesting;2025;JULIO;Mano de Obra Indirecta;Real;-34749.65
+WellTesting;2025;JULIO;Costo Total;Real;-668161.99
+WellTesting;2025;JULIO;Margen Bruto;Real;564284.88
+Wireline;2025;JULIO;Resultado Operativo;Real;268006.69
+Wireline;2025;JULIO;Mano de Obra Directa;Real;-138221.12
+Wireline;2025;JULIO;Mano de Obra Indirecta;Real;-16547.45
+Wireline;2025;JULIO;Costo Total;Real;-189279.6
+Wireline;2025;JULIO;Margen Bruto;Real;78727.09
+P&L 2025;2025;JULIO;Resultado Operativo;Real;5519444.49
+P&L 2025;2025;JULIO;Mano de Obra Directa;Real;-1420716.42
+P&L 2025;2025;JULIO;Mano de Obra Indirecta;Real;-165474.5
+P&L 2025;2025;JULIO;Costo Total;Real;-2563504.08
+P&L 2025;2025;JULIO;Margen Bruto;Real;2955940.42
+Fractura;2025;AGOSTO;Resultado Operativo;Real;3335388.79
+Fractura;2025;AGOSTO;Mano de Obra Directa;Real;-663621.15
+Fractura;2025;AGOSTO;Mano de Obra Indirecta;Real;-69499.29
+Fractura;2025;AGOSTO;Costo Total;Real;-1279335.78
+Fractura;2025;AGOSTO;Margen Bruto;Real;2056053.01
+SBDP;2025;AGOSTO;Resultado Operativo;Real;713762.53
+SBDP;2025;AGOSTO;Mano de Obra Directa;Real;-272408.35
+SBDP;2025;AGOSTO;Mano de Obra Indirecta;Real;-44678.12
+SBDP;2025;AGOSTO;Costo Total;Real;-460618.77
+SBDP;2025;AGOSTO;Margen Bruto;Real;253143.76
+WellTesting;2025;AGOSTO;Resultado Operativo;Real;1175470.41
+WellTesting;2025;AGOSTO;Mano de Obra Directa;Real;-379319.77
+WellTesting;2025;AGOSTO;Mano de Obra Indirecta;Real;-34749.65
+WellTesting;2025;AGOSTO;Costo Total;Real;-697045.28
+WellTesting;2025;AGOSTO;Margen Bruto;Real;478425.14
+Wireline;2025;AGOSTO;Resultado Operativo;Real;287245.24
+Wireline;2025;AGOSTO;Mano de Obra Directa;Real;-152552.96
+Wireline;2025;AGOSTO;Mano de Obra Indirecta;Real;-16547.45
+Wireline;2025;AGOSTO;Costo Total;Real;-215306.77
+Wireline;2025;AGOSTO;Margen Bruto;Real;71938.47
+P&L 2025;2025;AGOSTO;Resultado Operativo;Real;5622104.31
+P&L 2025;2025;AGOSTO;Mano de Obra Directa;Real;-1467902.23
+P&L 2025;2025;AGOSTO;Mano de Obra Indirecta;Real;-165474.5
+P&L 2025;2025;AGOSTO;Costo Total;Real;-2652306.6
+P&L 2025;2025;AGOSTO;Margen Bruto;Real;2969797.72
+Fractura;2025;SEPTIEMBRE;Resultado Operativo;Real;3097914.09
+Fractura;2025;SEPTIEMBRE;Mano de Obra Directa;Real;-643841.67
+Fractura;2025;SEPTIEMBRE;Mano de Obra Indirecta;Real;-69499.29
+Fractura;2025;SEPTIEMBRE;Costo Total;Real;-1467322.21
+Fractura;2025;SEPTIEMBRE;Margen Bruto;Real;1630591.88
+SBDP;2025;SEPTIEMBRE;Resultado Operativo;Real;770961.62
+SBDP;2025;SEPTIEMBRE;Mano de Obra Directa;Real;-290261.03
+SBDP;2025;SEPTIEMBRE;Mano de Obra Indirecta;Real;-44678.12
+SBDP;2025;SEPTIEMBRE;Costo Total;Real;-501865.48
+SBDP;2025;SEPTIEMBRE;Margen Bruto;Real;269096.14
+WellTesting;2025;SEPTIEMBRE;Resultado Operativo;Real;1151322.46
+WellTesting;2025;SEPTIEMBRE;Mano de Obra Directa;Real;-384252.04
+WellTesting;2025;SEPTIEMBRE;Mano de Obra Indirecta;Real;-34749.65
+WellTesting;2025;SEPTIEMBRE;Costo Total;Real;-635989.76
+WellTesting;2025;SEPTIEMBRE;Margen Bruto;Real;515332.7
+Wireline;2025;SEPTIEMBRE;Resultado Operativo;Real;243902.74
+Wireline;2025;SEPTIEMBRE;Mano de Obra Directa;Real;-144477.19
+Wireline;2025;SEPTIEMBRE;Mano de Obra Indirecta;Real;-16547.45
+Wireline;2025;SEPTIEMBRE;Costo Total;Real;-189933.18
+Wireline;2025;SEPTIEMBRE;Margen Bruto;Real;53969.56
+P&L 2025;2025;SEPTIEMBRE;Resultado Operativo;Real;5369382.92
+P&L 2025;2025;SEPTIEMBRE;Mano de Obra Directa;Real;-1462831.93
+P&L 2025;2025;SEPTIEMBRE;Mano de Obra Indirecta;Real;-165474.5
+P&L 2025;2025;SEPTIEMBRE;Costo Total;Real;-2795110.63
+P&L 2025;2025;SEPTIEMBRE;Margen Bruto;Real;2574272.3
+Fractura;2025;OCTUBRE;Resultado Operativo;Real;3285559.32
+Fractura;2025;OCTUBRE;Mano de Obra Directa;Real;-669544.69
+Fractura;2025;OCTUBRE;Mano de Obra Indirecta;Real;-69499.29
+Fractura;2025;OCTUBRE;Costo Total;Real;-1482631.14
+Fractura;2025;OCTUBRE;Margen Bruto;Real;1802928.18
+SBDP;2025;OCTUBRE;Resultado Operativo;Real;697343.48
+SBDP;2025;OCTUBRE;Mano de Obra Directa;Real;-294511.0
+SBDP;2025;OCTUBRE;Mano de Obra Indirecta;Real;-44678.12
+SBDP;2025;OCTUBRE;Costo Total;Real;-480836.07
+SBDP;2025;OCTUBRE;Margen Bruto;Real;216507.41
+WellTesting;2025;OCTUBRE;Resultado Operativo;Real;1308300.8
+WellTesting;2025;OCTUBRE;Mano de Obra Directa;Real;-378196.58
+WellTesting;2025;OCTUBRE;Mano de Obra Indirecta;Real;-34749.65
+WellTesting;2025;OCTUBRE;Costo Total;Real;-722687.38
+WellTesting;2025;OCTUBRE;Margen Bruto;Real;585613.42
+Wireline;2025;OCTUBRE;Resultado Operativo;Real;248926.26
+Wireline;2025;OCTUBRE;Mano de Obra Directa;Real;-143884.84
+Wireline;2025;OCTUBRE;Mano de Obra Indirecta;Real;-16547.45
+Wireline;2025;OCTUBRE;Costo Total;Real;-212809.87
+Wireline;2025;OCTUBRE;Margen Bruto;Real;36116.38
+P&L 2025;2025;OCTUBRE;Resultado Operativo;Real;5650932.44
+P&L 2025;2025;OCTUBRE;Mano de Obra Directa;Real;-1486137.11
+P&L 2025;2025;OCTUBRE;Mano de Obra Indirecta;Real;-165474.5
+P&L 2025;2025;OCTUBRE;Costo Total;Real;-2898964.46
+P&L 2025;2025;OCTUBRE;Margen Bruto;Real;2751967.98
+Fractura;2025;NOVIEMBRE;Resultado Operativo;Real;3583381.63
+Fractura;2025;NOVIEMBRE;Mano de Obra Directa;Real;-645390.0
+Fractura;2025;NOVIEMBRE;Mano de Obra Indirecta;Real;-69499.29
+Fractura;2025;NOVIEMBRE;Costo Total;Real;-1339620.9
+Fractura;2025;NOVIEMBRE;Margen Bruto;Real;2243760.72
+SBDP;2025;NOVIEMBRE;Resultado Operativo;Real;800444.86
+SBDP;2025;NOVIEMBRE;Mano de Obra Directa;Real;-283798.81
+SBDP;2025;NOVIEMBRE;Mano de Obra Indirecta;Real;-44678.12
+SBDP;2025;NOVIEMBRE;Costo Total;Real;-501963.18
+SBDP;2025;NOVIEMBRE;Margen Bruto;Real;298481.68
+WellTesting;2025;NOVIEMBRE;Resultado Operativo;Real;1233152.8
+WellTesting;2025;NOVIEMBRE;Mano de Obra Directa;Real;-380046.13
+WellTesting;2025;NOVIEMBRE;Mano de Obra Indirecta;Real;-34749.65
+WellTesting;2025;NOVIEMBRE;Costo Total;Real;-635061.87
+WellTesting;2025;NOVIEMBRE;Margen Bruto;Real;598090.93
+Wireline;2025;NOVIEMBRE;Resultado Operativo;Real;234354.28
+Wireline;2025;NOVIEMBRE;Mano de Obra Directa;Real;-136539.51
+Wireline;2025;NOVIEMBRE;Mano de Obra Indirecta;Real;-16547.45
+Wireline;2025;NOVIEMBRE;Costo Total;Real;-191041.53
+Wireline;2025;NOVIEMBRE;Margen Bruto;Real;43312.75
+P&L 2025;2025;NOVIEMBRE;Resultado Operativo;Real;5968360.23
+P&L 2025;2025;NOVIEMBRE;Mano de Obra Directa;Real;-1445774.45
+P&L 2025;2025;NOVIEMBRE;Mano de Obra Indirecta;Real;-165474.5
+P&L 2025;2025;NOVIEMBRE;Costo Total;Real;-2667687.47
+P&L 2025;2025;NOVIEMBRE;Margen Bruto;Real;3300672.76
+Fractura;2025;DICIEMBRE;Resultado Operativo;Real;3266466.46
+Fractura;2025;DICIEMBRE;Mano de Obra Directa;Real;-892165.0
+Fractura;2025;DICIEMBRE;Mano de Obra Indirecta;Real;-90349.08
+Fractura;2025;DICIEMBRE;Costo Total;Real;-1483489.45
+Fractura;2025;DICIEMBRE;Margen Bruto;Real;1782977.01
+SBDP;2025;DICIEMBRE;Resultado Operativo;Real;725009.55
+SBDP;2025;DICIEMBRE;Mano de Obra Directa;Real;-360699.69
+SBDP;2025;DICIEMBRE;Mano de Obra Indirecta;Real;-58081.55
+SBDP;2025;DICIEMBRE;Costo Total;Real;-499945.28
+SBDP;2025;DICIEMBRE;Margen Bruto;Real;225064.27
+WellTesting;2025;DICIEMBRE;Resultado Operativo;Real;1376382.76
+WellTesting;2025;DICIEMBRE;Mano de Obra Directa;Real;-496688.49
+WellTesting;2025;DICIEMBRE;Mano de Obra Indirecta;Real;-45174.54
+WellTesting;2025;DICIEMBRE;Costo Total;Real;-870442.34
+WellTesting;2025;DICIEMBRE;Margen Bruto;Real;505940.42
+Wireline;2025;DICIEMBRE;Resultado Operativo;Real;295132.56
+Wireline;2025;DICIEMBRE;Mano de Obra Directa;Real;-186815.24
+Wireline;2025;DICIEMBRE;Mano de Obra Indirecta;Real;-21511.69
+Wireline;2025;DICIEMBRE;Costo Total;Real;-267256.73
+Wireline;2025;DICIEMBRE;Margen Bruto;Real;27875.83
+P&L 2025;2025;DICIEMBRE;Resultado Operativo;Real;5776251.15
+P&L 2025;2025;DICIEMBRE;Mano de Obra Directa;Real;-1936368.42
+P&L 2025;2025;DICIEMBRE;Mano de Obra Indirecta;Real;-215116.85
+P&L 2025;2025;DICIEMBRE;Costo Total;Real;-3121133.8
+P&L 2025;2025;DICIEMBRE;Margen Bruto;Real;2655117.35

@@ -1,0 +1,526 @@
+﻿Línea de servicio,Concepto,Orden concepto,Mes,Escenario,Valor
+Fractura,Resultado Operativo,1,2026-01-01,Real,4070504.89
+Fractura,Mano de Obra Directa,2,2026-01-01,Real,-723425.1
+Fractura,Mano de Obra Indirecta,5,2026-01-01,Real,-80813.13
+Fractura,Costo Total,3,2026-01-01,Real,-1652312.62
+Fractura,Margen Bruto,4,2026-01-01,Real,2418192.26
+SCBP,Resultado Operativo,1,2026-01-01,Real,742167.0
+SCBP,Mano de Obra Directa,2,2026-01-01,Real,-315751.6
+SCBP,Mano de Obra Indirecta,5,2026-01-01,Real,-51951.3
+SCBP,Costo Total,3,2026-01-01,Real,-482024.3
+SCBP,Margen Bruto,4,2026-01-01,Real,260142.7
+WT,Resultado Operativo,1,2026-01-01,Real,1358168.49
+WT,Mano de Obra Directa,2,2026-01-01,Real,-429899.17
+WT,Mano de Obra Indirecta,5,2026-01-01,Real,-40406.56
+WT,Costo Total,3,2026-01-01,Real,-734147.58
+WT,Margen Bruto,4,2026-01-01,Real,624020.92
+Wireline,Resultado Operativo,1,2026-01-01,Real,215999.84
+Wireline,Mano de Obra Directa,2,2026-01-01,Real,-159970.88
+Wireline,Mano de Obra Indirecta,5,2026-01-01,Real,-19241.22
+Wireline,Costo Total,3,2026-01-01,Real,-205962.92
+Wireline,Margen Bruto,4,2026-01-01,Real,10036.92
+Total base,Resultado Operativo,1,2026-01-01,Real,6514577.03
+Total base,Mano de Obra Directa,2,2026-01-01,Real,-1629046.75
+Total base,Mano de Obra Indirecta,5,2026-01-01,Real,-192412.21
+Total base,Costo Total,3,2026-01-01,Real,-3074447.42
+Total base,Margen Bruto,4,2026-01-01,Real,3440129.61
+Fractura,Resultado Operativo,1,2026-02-01,Real,3992534.3
+Fractura,Mano de Obra Directa,2,2026-02-01,Real,-718008.63
+Fractura,Mano de Obra Indirecta,5,2026-02-01,Real,-68206.72
+Fractura,Costo Total,3,2026-02-01,Real,-1513402.07
+Fractura,Margen Bruto,4,2026-02-01,Real,2479132.23
+SCBP,Resultado Operativo,1,2026-02-01,Real,837567.73
+SCBP,Mano de Obra Directa,2,2026-02-01,Real,-331580.52
+SCBP,Mano de Obra Indirecta,5,2026-02-01,Real,-43847.18
+SCBP,Costo Total,3,2026-02-01,Real,-523292.19
+SCBP,Margen Bruto,4,2026-02-01,Real,314275.54
+WT,Resultado Operativo,1,2026-02-01,Real,1442882.8
+WT,Mano de Obra Directa,2,2026-02-01,Real,-443839.07
+WT,Mano de Obra Indirecta,5,2026-02-01,Real,-34103.36
+WT,Costo Total,3,2026-02-01,Real,-776100.84
+WT,Margen Bruto,4,2026-02-01,Real,666781.96
+Wireline,Resultado Operativo,1,2026-02-01,Real,307339.96
+Wireline,Mano de Obra Directa,2,2026-02-01,Real,-185563.28
+Wireline,Mano de Obra Indirecta,5,2026-02-01,Real,-16239.69
+Wireline,Costo Total,3,2026-02-01,Real,-242873.73
+Wireline,Margen Bruto,4,2026-02-01,Real,64466.23
+Total base,Resultado Operativo,1,2026-02-01,Real,6711931.28
+Total base,Mano de Obra Directa,2,2026-02-01,Real,-1678991.51
+Total base,Mano de Obra Indirecta,5,2026-02-01,Real,-162396.95
+Total base,Costo Total,3,2026-02-01,Real,-3055668.83
+Total base,Margen Bruto,4,2026-02-01,Real,3656262.46
+Fractura,Resultado Operativo,1,2026-03-01,Real,3450364.21
+Fractura,Mano de Obra Directa,2,2026-03-01,Real,-716356.63
+Fractura,Mano de Obra Indirecta,5,2026-03-01,Real,-72994.42
+Fractura,Costo Total,3,2026-03-01,Real,-1565421.09
+Fractura,Margen Bruto,4,2026-03-01,Real,1884943.12
+SCBP,Resultado Operativo,1,2026-03-01,Real,989436.12
+SCBP,Mano de Obra Directa,2,2026-03-01,Real,-355458.21
+SCBP,Mano de Obra Indirecta,5,2026-03-01,Real,-46924.98
+SCBP,Costo Total,3,2026-03-01,Real,-575701.6
+SCBP,Margen Bruto,4,2026-03-01,Real,413734.51
+WT,Resultado Operativo,1,2026-03-01,Real,1631872.87
+WT,Mano de Obra Directa,2,2026-03-01,Real,-462278.82
+WT,Mano de Obra Indirecta,5,2026-03-01,Real,-36497.21
+WT,Costo Total,3,2026-03-01,Real,-900035.43
+WT,Margen Bruto,4,2026-03-01,Real,731837.44
+Wireline,Resultado Operativo,1,2026-03-01,Real,386632.32
+Wireline,Mano de Obra Directa,2,2026-03-01,Real,-198859.06
+Wireline,Mano de Obra Indirecta,5,2026-03-01,Real,-17379.62
+Wireline,Costo Total,3,2026-03-01,Real,-281390.81
+Wireline,Margen Bruto,4,2026-03-01,Real,105241.51
+Total base,Resultado Operativo,1,2026-03-01,Real,6587471.62
+Total base,Mano de Obra Directa,2,2026-03-01,Real,-1732952.72
+Total base,Mano de Obra Indirecta,5,2026-03-01,Real,-173796.23
+Total base,Costo Total,3,2026-03-01,Real,-3322548.93
+Total base,Margen Bruto,4,2026-03-01,Real,3264922.69
+Fractura,Resultado Operativo,1,2026-04-01,Real,3066365.12
+Fractura,Mano de Obra Directa,2,2026-04-01,Real,-725343.27
+Fractura,Mano de Obra Indirecta,5,2026-04-01,Real,-77867.87
+Fractura,Costo Total,3,2026-04-01,Real,-1301355.34
+Fractura,Margen Bruto,4,2026-04-01,Real,1765009.78
+SCBP,Resultado Operativo,1,2026-04-01,Real,1222692.76
+SCBP,Mano de Obra Directa,2,2026-04-01,Real,-372934.02
+SCBP,Mano de Obra Indirecta,5,2026-04-01,Real,-50057.92
+SCBP,Costo Total,3,2026-04-01,Real,-695733.06
+SCBP,Margen Bruto,4,2026-04-01,Real,526959.7
+WT,Resultado Operativo,1,2026-04-01,Real,1536370.48
+WT,Mano de Obra Directa,2,2026-04-01,Real,-463050.25
+WT,Mano de Obra Indirecta,5,2026-04-01,Real,-38933.94
+WT,Costo Total,3,2026-04-01,Real,-811988.13
+WT,Margen Bruto,4,2026-04-01,Real,724382.35
+Wireline,Resultado Operativo,1,2026-04-01,Real,427168.4
+Wireline,Mano de Obra Directa,2,2026-04-01,Real,-201507.48
+Wireline,Mano de Obra Indirecta,5,2026-04-01,Real,-18539.97
+Wireline,Costo Total,3,2026-04-01,Real,-288913.63
+Wireline,Margen Bruto,4,2026-04-01,Real,138254.77
+Total base,Resultado Operativo,1,2026-04-01,Real,6377648.69
+Total base,Mano de Obra Directa,2,2026-04-01,Real,-1762835.02
+Total base,Mano de Obra Indirecta,5,2026-04-01,Real,-185399.7
+Total base,Costo Total,3,2026-04-01,Real,-3097990.15
+Total base,Margen Bruto,4,2026-04-01,Real,3279658.54
+Fractura,Resultado Operativo,1,2026-05-01,Real,3410024.15
+Fractura,Mano de Obra Directa,2,2026-05-01,Real,-729955.3
+Fractura,Mano de Obra Indirecta,5,2026-05-01,Real,-79524.59
+Fractura,Costo Total,3,2026-05-01,Real,-1381737.6
+Fractura,Margen Bruto,4,2026-05-01,Real,2028286.55
+SCBP,Resultado Operativo,1,2026-05-01,Real,1452391.62
+SCBP,Mano de Obra Directa,2,2026-05-01,Real,-401156.05
+SCBP,Mano de Obra Indirecta,5,2026-05-01,Real,-51122.95
+SCBP,Costo Total,3,2026-05-01,Real,-744445.72
+SCBP,Margen Bruto,4,2026-05-01,Real,707945.9
+WT,Resultado Operativo,1,2026-05-01,Real,1920711.22
+WT,Mano de Obra Directa,2,2026-05-01,Real,-485669.06
+WT,Mano de Obra Indirecta,5,2026-05-01,Real,-39762.29
+WT,Costo Total,3,2026-05-01,Real,-945828.83
+WT,Margen Bruto,4,2026-05-01,Real,974882.39
+Wireline,Resultado Operativo,1,2026-05-01,Real,523364.96
+Wireline,Mano de Obra Directa,2,2026-05-01,Real,-229685.79
+Wireline,Mano de Obra Indirecta,5,2026-05-01,Real,-18934.43
+Wireline,Costo Total,3,2026-05-01,Real,-356481.16
+Wireline,Margen Bruto,4,2026-05-01,Real,166883.8
+Total base,Resultado Operativo,1,2026-05-01,Real,7452621.78
+Total base,Mano de Obra Directa,2,2026-05-01,Real,-1846466.2
+Total base,Mano de Obra Indirecta,5,2026-05-01,Real,-189344.26
+Total base,Costo Total,3,2026-05-01,Real,-3428493.31
+Total base,Margen Bruto,4,2026-05-01,Real,4024128.47
+Fractura,Resultado Operativo,1,2026-06-01,Real,3821005.57
+Fractura,Mano de Obra Directa,2,2026-06-01,Real,-1045404.51
+Fractura,Mano de Obra Indirecta,5,2026-06-01,Real,-118633.92
+Fractura,Costo Total,3,2026-06-01,Real,-2085009.77
+Fractura,Margen Bruto,4,2026-06-01,Real,1735995.8
+SCBP,Resultado Operativo,1,2026-06-01,Real,1759454.12
+SCBP,Mano de Obra Directa,2,2026-06-01,Real,-605693.45
+SCBP,Mano de Obra Indirecta,5,2026-06-01,Real,-76264.67
+SCBP,Costo Total,3,2026-06-01,Real,-953830.27
+SCBP,Margen Bruto,4,2026-06-01,Real,805623.85
+WT,Resultado Operativo,1,2026-06-01,Real,2020503.03
+WT,Mano de Obra Directa,2,2026-06-01,Real,-672761.14
+WT,Mano de Obra Indirecta,5,2026-06-01,Real,-59316.96
+WT,Costo Total,3,2026-06-01,Real,-1174194.54
+WT,Margen Bruto,4,2026-06-01,Real,846308.49
+Wireline,Resultado Operativo,1,2026-06-01,Real,630212.77
+Wireline,Mano de Obra Directa,2,2026-06-01,Real,-328044.78
+Wireline,Mano de Obra Indirecta,5,2026-06-01,Real,-28246.17
+Wireline,Costo Total,3,2026-06-01,Real,-448263.99
+Wireline,Margen Bruto,4,2026-06-01,Real,181948.78
+Total base,Resultado Operativo,1,2026-06-01,Real,8395798.99
+Total base,Mano de Obra Directa,2,2026-06-01,Real,-2651903.88
+Total base,Mano de Obra Indirecta,5,2026-06-01,Real,-282461.73
+Total base,Costo Total,3,2026-06-01,Real,-4661298.56
+Total base,Margen Bruto,4,2026-06-01,Real,3734500.43
+Fractura,Resultado Operativo,1,2026-07-01,Real,3122451.17
+Fractura,Mano de Obra Directa,2,2026-07-01,Real,-703104.38
+Fractura,Mano de Obra Indirecta,5,2026-07-01,Real,-80566.83
+Fractura,Costo Total,3,2026-07-01,Real,-1292716.81
+Fractura,Margen Bruto,4,2026-07-01,Real,1829734.36
+SCBP,Resultado Operativo,1,2026-07-01,Real,2182106.16
+SCBP,Mano de Obra Directa,2,2026-07-01,Real,-434931.46
+SCBP,Mano de Obra Indirecta,5,2026-07-01,Real,-51792.96
+SCBP,Costo Total,3,2026-07-01,Real,-990467.35
+SCBP,Margen Bruto,4,2026-07-01,Real,1191638.81
+WT,Resultado Operativo,1,2026-07-01,Real,1582067.69
+WT,Mano de Obra Directa,2,2026-07-01,Real,-491394.52
+WT,Mano de Obra Indirecta,5,2026-07-01,Real,-40283.42
+WT,Costo Total,3,2026-07-01,Real,-919047.33
+WT,Margen Bruto,4,2026-07-01,Real,663020.36
+Wireline,Resultado Operativo,1,2026-07-01,Real,829173.12
+Wireline,Mano de Obra Directa,2,2026-07-01,Real,-263436.74
+Wireline,Mano de Obra Indirecta,5,2026-07-01,Real,-19182.58
+Wireline,Costo Total,3,2026-07-01,Real,-484309.8
+Wireline,Margen Bruto,4,2026-07-01,Real,344863.32
+Total base,Resultado Operativo,1,2026-07-01,Real,7870114.1
+Total base,Mano de Obra Directa,2,2026-07-01,Real,-1892867.1
+Total base,Mano de Obra Indirecta,5,2026-07-01,Real,-191825.79
+Total base,Costo Total,3,2026-07-01,Real,-3686541.28
+Total base,Margen Bruto,4,2026-07-01,Real,4183572.81
+Fractura,Resultado Operativo,1,2026-08-01,Real,3380509.71
+Fractura,Mano de Obra Directa,2,2026-08-01,Real,-691612.73
+Fractura,Mano de Obra Indirecta,5,2026-08-01,Real,-83630.09
+Fractura,Costo Total,3,2026-08-01,Real,-1514598.15
+Fractura,Margen Bruto,4,2026-08-01,Real,1865911.56
+SCBP,Resultado Operativo,1,2026-08-01,Real,2002888.88
+SCBP,Mano de Obra Directa,2,2026-08-01,Real,-463941.41
+SCBP,Mano de Obra Indirecta,5,2026-08-01,Real,-53762.2
+SCBP,Costo Total,3,2026-08-01,Real,-1020457.7
+SCBP,Margen Bruto,4,2026-08-01,Real,982431.18
+WT,Resultado Operativo,1,2026-08-01,Real,1852728.7
+WT,Mano de Obra Directa,2,2026-08-01,Real,-500609.12
+WT,Mano de Obra Indirecta,5,2026-08-01,Real,-41815.04
+WT,Costo Total,3,2026-08-01,Real,-849284.82
+WT,Margen Bruto,4,2026-08-01,Real,1003443.88
+Wireline,Resultado Operativo,1,2026-08-01,Real,933472.12
+Wireline,Mano de Obra Directa,2,2026-08-01,Real,-283048.35
+Wireline,Mano de Obra Indirecta,5,2026-08-01,Real,-19911.93
+Wireline,Costo Total,3,2026-08-01,Real,-509107.56
+Wireline,Margen Bruto,4,2026-08-01,Real,424364.57
+Total base,Resultado Operativo,1,2026-08-01,Real,8332991.4
+Total base,Mano de Obra Directa,2,2026-08-01,Real,-1939211.6
+Total base,Mano de Obra Indirecta,5,2026-08-01,Real,-199119.25
+Total base,Costo Total,3,2026-08-01,Real,-3893448.23
+Total base,Margen Bruto,4,2026-08-01,Real,4439543.17
+Fractura,Resultado Operativo,1,2026-09-01,Real,2936799.17
+Fractura,Mano de Obra Directa,2,2026-09-01,Real,-667121.82
+Fractura,Mano de Obra Indirecta,5,2026-09-01,Real,-87020.81
+Fractura,Costo Total,3,2026-09-01,Real,-1268520.2
+Fractura,Margen Bruto,4,2026-09-01,Real,1668278.97
+SCBP,Resultado Operativo,1,2026-09-01,Real,2237991.28
+SCBP,Mano de Obra Directa,2,2026-09-01,Real,-471719.86
+SCBP,Mano de Obra Indirecta,5,2026-09-01,Real,-55941.95
+SCBP,Costo Total,3,2026-09-01,Real,-1065292.3
+SCBP,Margen Bruto,4,2026-09-01,Real,1172698.98
+WT,Resultado Operativo,1,2026-09-01,Real,2044063.92
+WT,Mano de Obra Directa,2,2026-09-01,Real,-491646.19
+WT,Mano de Obra Indirecta,5,2026-09-01,Real,-43510.41
+WT,Costo Total,3,2026-09-01,Real,-944432.89
+WT,Margen Bruto,4,2026-09-01,Real,1099631.03
+Wireline,Resultado Operativo,1,2026-09-01,Real,1002194.03
+Wireline,Mano de Obra Directa,2,2026-09-01,Real,-275401.0
+Wireline,Mano de Obra Indirecta,5,2026-09-01,Real,-20719.24
+Wireline,Costo Total,3,2026-09-01,Real,-526293.07
+Wireline,Margen Bruto,4,2026-09-01,Real,475900.96
+Total base,Resultado Operativo,1,2026-09-01,Real,8385469.36
+Total base,Mano de Obra Directa,2,2026-09-01,Real,-1905888.87
+Total base,Mano de Obra Indirecta,5,2026-09-01,Real,-207192.41
+Total base,Costo Total,3,2026-09-01,Real,-3804538.46
+Total base,Margen Bruto,4,2026-09-01,Real,4580930.9
+Fractura,Resultado Operativo,1,2025-01-01,Real,3177816.81
+Fractura,Mano de Obra Directa,2,2025-01-01,Real,-606827.4
+Fractura,Mano de Obra Indirecta,5,2025-01-01,Real,-69499.29
+Fractura,Costo Total,3,2025-01-01,Real,-1293852.75
+Fractura,Margen Bruto,4,2025-01-01,Real,1883964.06
+SCBP,Resultado Operativo,1,2025-01-01,Real,746034.31
+SCBP,Mano de Obra Directa,2,2025-01-01,Real,-257171.92
+SCBP,Mano de Obra Indirecta,5,2025-01-01,Real,-44678.12
+SCBP,Costo Total,3,2025-01-01,Real,-433829.73
+SCBP,Margen Bruto,4,2025-01-01,Real,312204.58
+WT,Resultado Operativo,1,2025-01-01,Real,1056392.35
+WT,Mano de Obra Directa,2,2025-01-01,Real,-360037.25
+WT,Mano de Obra Indirecta,5,2025-01-01,Real,-34749.65
+WT,Costo Total,3,2025-01-01,Real,-612733.59
+WT,Margen Bruto,4,2025-01-01,Real,443658.76
+Wireline,Resultado Operativo,1,2025-01-01,Real,270204.08
+Wireline,Mano de Obra Directa,2,2025-01-01,Real,-139164.0
+Wireline,Mano de Obra Indirecta,5,2025-01-01,Real,-16547.45
+Wireline,Costo Total,3,2025-01-01,Real,-214520.66
+Wireline,Margen Bruto,4,2025-01-01,Real,55683.42
+Total base,Resultado Operativo,1,2025-01-01,Real,5355456.51
+Total base,Mano de Obra Directa,2,2025-01-01,Real,-1363200.56
+Total base,Mano de Obra Indirecta,5,2025-01-01,Real,-165474.5
+Total base,Costo Total,3,2025-01-01,Real,-2554936.73
+Total base,Margen Bruto,4,2025-01-01,Real,2800519.78
+Fractura,Resultado Operativo,1,2025-02-01,Real,3165433.47
+Fractura,Mano de Obra Directa,2,2025-02-01,Real,-646294.14
+Fractura,Mano de Obra Indirecta,5,2025-02-01,Real,-69499.29
+Fractura,Costo Total,3,2025-02-01,Real,-1298213.32
+Fractura,Margen Bruto,4,2025-02-01,Real,1867220.14
+SCBP,Resultado Operativo,1,2025-02-01,Real,753982.3
+SCBP,Mano de Obra Directa,2,2025-02-01,Real,-277529.19
+SCBP,Mano de Obra Indirecta,5,2025-02-01,Real,-44678.12
+SCBP,Costo Total,3,2025-02-01,Real,-459747.06
+SCBP,Margen Bruto,4,2025-02-01,Real,294235.23
+WT,Resultado Operativo,1,2025-02-01,Real,1099001.19
+WT,Mano de Obra Directa,2,2025-02-01,Real,-351471.99
+WT,Mano de Obra Indirecta,5,2025-02-01,Real,-34749.65
+WT,Costo Total,3,2025-02-01,Real,-624670.15
+WT,Margen Bruto,4,2025-02-01,Real,474331.04
+Wireline,Resultado Operativo,1,2025-02-01,Real,235706.9
+Wireline,Mano de Obra Directa,2,2025-02-01,Real,-135317.81
+Wireline,Mano de Obra Indirecta,5,2025-02-01,Real,-16547.45
+Wireline,Costo Total,3,2025-02-01,Real,-194784.93
+Wireline,Margen Bruto,4,2025-02-01,Real,40921.98
+Total base,Resultado Operativo,1,2025-02-01,Real,5359206.33
+Total base,Mano de Obra Directa,2,2025-02-01,Real,-1410613.13
+Total base,Mano de Obra Indirecta,5,2025-02-01,Real,-165474.5
+Total base,Costo Total,3,2025-02-01,Real,-2577415.46
+Total base,Margen Bruto,4,2025-02-01,Real,2781790.87
+Fractura,Resultado Operativo,1,2025-03-01,Real,2955641.63
+Fractura,Mano de Obra Directa,2,2025-03-01,Real,-603838.41
+Fractura,Mano de Obra Indirecta,5,2025-03-01,Real,-69499.29
+Fractura,Costo Total,3,2025-03-01,Real,-1291816.84
+Fractura,Margen Bruto,4,2025-03-01,Real,1663824.79
+SCBP,Resultado Operativo,1,2025-03-01,Real,709637.71
+SCBP,Mano de Obra Directa,2,2025-03-01,Real,-270665.81
+SCBP,Mano de Obra Indirecta,5,2025-03-01,Real,-44678.12
+SCBP,Costo Total,3,2025-03-01,Real,-449139.02
+SCBP,Margen Bruto,4,2025-03-01,Real,260498.69
+WT,Resultado Operativo,1,2025-03-01,Real,1292971.99
+WT,Mano de Obra Directa,2,2025-03-01,Real,-388733.55
+WT,Mano de Obra Indirecta,5,2025-03-01,Real,-34749.65
+WT,Costo Total,3,2025-03-01,Real,-632220.92
+WT,Margen Bruto,4,2025-03-01,Real,660751.07
+Wireline,Resultado Operativo,1,2025-03-01,Real,256250.72
+Wireline,Mano de Obra Directa,2,2025-03-01,Real,-140015.87
+Wireline,Mano de Obra Indirecta,5,2025-03-01,Real,-16547.45
+Wireline,Costo Total,3,2025-03-01,Real,-204074.23
+Wireline,Margen Bruto,4,2025-03-01,Real,52176.49
+Total base,Resultado Operativo,1,2025-03-01,Real,5318792.1
+Total base,Mano de Obra Directa,2,2025-03-01,Real,-1403253.63
+Total base,Mano de Obra Indirecta,5,2025-03-01,Real,-165474.5
+Total base,Costo Total,3,2025-03-01,Real,-2577251.01
+Total base,Margen Bruto,4,2025-03-01,Real,2741541.08
+Fractura,Resultado Operativo,1,2025-04-01,Real,3204391.51
+Fractura,Mano de Obra Directa,2,2025-04-01,Real,-668866.68
+Fractura,Mano de Obra Indirecta,5,2025-04-01,Real,-69499.29
+Fractura,Costo Total,3,2025-04-01,Real,-1439392.25
+Fractura,Margen Bruto,4,2025-04-01,Real,1764999.26
+SCBP,Resultado Operativo,1,2025-04-01,Real,849568.9
+SCBP,Mano de Obra Directa,2,2025-04-01,Real,-273294.26
+SCBP,Mano de Obra Indirecta,5,2025-04-01,Real,-44678.12
+SCBP,Costo Total,3,2025-04-01,Real,-475295.36
+SCBP,Margen Bruto,4,2025-04-01,Real,374273.53
+WT,Resultado Operativo,1,2025-04-01,Real,1332719.34
+WT,Mano de Obra Directa,2,2025-04-01,Real,-377530.88
+WT,Mano de Obra Indirecta,5,2025-04-01,Real,-34749.65
+WT,Costo Total,3,2025-04-01,Real,-715334.41
+WT,Margen Bruto,4,2025-04-01,Real,617384.93
+Wireline,Resultado Operativo,1,2025-04-01,Real,222328.0
+Wireline,Mano de Obra Directa,2,2025-04-01,Real,-138084.65
+Wireline,Mano de Obra Indirecta,5,2025-04-01,Real,-16547.45
+Wireline,Costo Total,3,2025-04-01,Real,-178881.41
+Wireline,Margen Bruto,4,2025-04-01,Real,43446.6
+Total base,Resultado Operativo,1,2025-04-01,Real,5721187.91
+Total base,Mano de Obra Directa,2,2025-04-01,Real,-1457776.46
+Total base,Mano de Obra Indirecta,5,2025-04-01,Real,-165474.5
+Total base,Costo Total,3,2025-04-01,Real,-2808903.43
+Total base,Margen Bruto,4,2025-04-01,Real,2912284.47
+Fractura,Resultado Operativo,1,2025-05-01,Real,3029728.14
+Fractura,Mano de Obra Directa,2,2025-05-01,Real,-631083.93
+Fractura,Mano de Obra Indirecta,5,2025-05-01,Real,-69499.29
+Fractura,Costo Total,3,2025-05-01,Real,-1317172.08
+Fractura,Margen Bruto,4,2025-05-01,Real,1712556.05
+SCBP,Resultado Operativo,1,2025-05-01,Real,744606.75
+SCBP,Mano de Obra Directa,2,2025-05-01,Real,-276923.52
+SCBP,Mano de Obra Indirecta,5,2025-05-01,Real,-44678.12
+SCBP,Costo Total,3,2025-05-01,Real,-415686.39
+SCBP,Margen Bruto,4,2025-05-01,Real,328920.35
+WT,Resultado Operativo,1,2025-05-01,Real,1289358.15
+WT,Mano de Obra Directa,2,2025-05-01,Real,-392631.31
+WT,Mano de Obra Indirecta,5,2025-05-01,Real,-34749.65
+WT,Costo Total,3,2025-05-01,Real,-661834.38
+WT,Margen Bruto,4,2025-05-01,Real,627523.78
+Wireline,Resultado Operativo,1,2025-05-01,Real,224389.15
+Wireline,Mano de Obra Directa,2,2025-05-01,Real,-127079.17
+Wireline,Mano de Obra Indirecta,5,2025-05-01,Real,-16547.45
+Wireline,Costo Total,3,2025-05-01,Real,-168342.54
+Wireline,Margen Bruto,4,2025-05-01,Real,56046.61
+Total base,Resultado Operativo,1,2025-05-01,Real,5393843.84
+Total base,Mano de Obra Directa,2,2025-05-01,Real,-1427717.94
+Total base,Mano de Obra Indirecta,5,2025-05-01,Real,-165474.5
+Total base,Costo Total,3,2025-05-01,Real,-2563035.4
+Total base,Margen Bruto,4,2025-05-01,Real,2830808.44
+Fractura,Resultado Operativo,1,2025-06-01,Real,3294144.04
+Fractura,Mano de Obra Directa,2,2025-06-01,Real,-837675.57
+Fractura,Mano de Obra Indirecta,5,2025-06-01,Real,-90349.08
+Fractura,Costo Total,3,2025-06-01,Real,-1547632.57
+Fractura,Margen Bruto,4,2025-06-01,Real,1746511.47
+SCBP,Resultado Operativo,1,2025-06-01,Real,745521.23
+SCBP,Mano de Obra Directa,2,2025-06-01,Real,-346012.38
+SCBP,Mano de Obra Indirecta,5,2025-06-01,Real,-58081.55
+SCBP,Costo Total,3,2025-06-01,Real,-508287.04
+SCBP,Margen Bruto,4,2025-06-01,Real,237234.19
+WT,Resultado Operativo,1,2025-06-01,Real,1143596.71
+WT,Mano de Obra Directa,2,2025-06-01,Real,-483721.07
+WT,Mano de Obra Indirecta,5,2025-06-01,Real,-45174.54
+WT,Costo Total,3,2025-06-01,Real,-780173.97
+WT,Margen Bruto,4,2025-06-01,Real,363422.74
+Wireline,Resultado Operativo,1,2025-06-01,Real,256059.94
+Wireline,Mano de Obra Directa,2,2025-06-01,Real,-182382.34
+Wireline,Mano de Obra Indirecta,5,2025-06-01,Real,-21511.69
+Wireline,Costo Total,3,2025-06-01,Real,-239425.62
+Wireline,Margen Bruto,4,2025-06-01,Real,16634.32
+Total base,Resultado Operativo,1,2025-06-01,Real,5548108.37
+Total base,Mano de Obra Directa,2,2025-06-01,Real,-1849791.36
+Total base,Mano de Obra Indirecta,5,2025-06-01,Real,-215116.85
+Total base,Costo Total,3,2025-06-01,Real,-3075519.21
+Total base,Margen Bruto,4,2025-06-01,Real,2472589.16
+Fractura,Resultado Operativo,1,2025-07-01,Real,3094642.59
+Fractura,Mano de Obra Directa,2,2025-07-01,Real,-621021.23
+Fractura,Mano de Obra Indirecta,5,2025-07-01,Real,-69499.29
+Fractura,Costo Total,3,2025-07-01,Real,-1268041.54
+Fractura,Margen Bruto,4,2025-07-01,Real,1826601.04
+SCBP,Resultado Operativo,1,2025-07-01,Real,816123.94
+SCBP,Mano de Obra Directa,2,2025-07-01,Real,-282204.88
+SCBP,Mano de Obra Indirecta,5,2025-07-01,Real,-44678.12
+SCBP,Costo Total,3,2025-07-01,Real,-438020.94
+SCBP,Margen Bruto,4,2025-07-01,Real,378103.0
+WT,Resultado Operativo,1,2025-07-01,Real,1232446.88
+WT,Mano de Obra Directa,2,2025-07-01,Real,-379269.19
+WT,Mano de Obra Indirecta,5,2025-07-01,Real,-34749.65
+WT,Costo Total,3,2025-07-01,Real,-668161.99
+WT,Margen Bruto,4,2025-07-01,Real,564284.88
+Wireline,Resultado Operativo,1,2025-07-01,Real,268006.69
+Wireline,Mano de Obra Directa,2,2025-07-01,Real,-138221.12
+Wireline,Mano de Obra Indirecta,5,2025-07-01,Real,-16547.45
+Wireline,Costo Total,3,2025-07-01,Real,-189279.6
+Wireline,Margen Bruto,4,2025-07-01,Real,78727.09
+Total base,Resultado Operativo,1,2025-07-01,Real,5519444.49
+Total base,Mano de Obra Directa,2,2025-07-01,Real,-1420716.42
+Total base,Mano de Obra Indirecta,5,2025-07-01,Real,-165474.5
+Total base,Costo Total,3,2025-07-01,Real,-2563504.08
+Total base,Margen Bruto,4,2025-07-01,Real,2955940.42
+Fractura,Resultado Operativo,1,2025-08-01,Real,3335388.79
+Fractura,Mano de Obra Directa,2,2025-08-01,Real,-663621.15
+Fractura,Mano de Obra Indirecta,5,2025-08-01,Real,-69499.29
+Fractura,Costo Total,3,2025-08-01,Real,-1279335.78
+Fractura,Margen Bruto,4,2025-08-01,Real,2056053.01
+SCBP,Resultado Operativo,1,2025-08-01,Real,713762.53
+SCBP,Mano de Obra Directa,2,2025-08-01,Real,-272408.35
+SCBP,Mano de Obra Indirecta,5,2025-08-01,Real,-44678.12
+SCBP,Costo Total,3,2025-08-01,Real,-460618.77
+SCBP,Margen Bruto,4,2025-08-01,Real,253143.76
+WT,Resultado Operativo,1,2025-08-01,Real,1175470.41
+WT,Mano de Obra Directa,2,2025-08-01,Real,-379319.77
+WT,Mano de Obra Indirecta,5,2025-08-01,Real,-34749.65
+WT,Costo Total,3,2025-08-01,Real,-697045.28
+WT,Margen Bruto,4,2025-08-01,Real,478425.14
+Wireline,Resultado Operativo,1,2025-08-01,Real,287245.24
+Wireline,Mano de Obra Directa,2,2025-08-01,Real,-152552.96
+Wireline,Mano de Obra Indirecta,5,2025-08-01,Real,-16547.45
+Wireline,Costo Total,3,2025-08-01,Real,-215306.77
+Wireline,Margen Bruto,4,2025-08-01,Real,71938.47
+Total base,Resultado Operativo,1,2025-08-01,Real,5622104.31
+Total base,Mano de Obra Directa,2,2025-08-01,Real,-1467902.23
+Total base,Mano de Obra Indirecta,5,2025-08-01,Real,-165474.5
+Total base,Costo Total,3,2025-08-01,Real,-2652306.6
+Total base,Margen Bruto,4,2025-08-01,Real,2969797.72
+Fractura,Resultado Operativo,1,2025-09-01,Real,3097914.09
+Fractura,Mano de Obra Directa,2,2025-09-01,Real,-643841.67
+Fractura,Mano de Obra Indirecta,5,2025-09-01,Real,-69499.29
+Fractura,Costo Total,3,2025-09-01,Real,-1467322.21
+Fractura,Margen Bruto,4,2025-09-01,Real,1630591.88
+SCBP,Resultado Operativo,1,2025-09-01,Real,770961.62
+SCBP,Mano de Obra Directa,2,2025-09-01,Real,-290261.03
+SCBP,Mano de Obra Indirecta,5,2025-09-01,Real,-44678.12
+SCBP,Costo Total,3,2025-09-01,Real,-501865.48
+SCBP,Margen Bruto,4,2025-09-01,Real,269096.14
+WT,Resultado Operativo,1,2025-09-01,Real,1151322.46
+WT,Mano de Obra Directa,2,2025-09-01,Real,-384252.04
+WT,Mano de Obra Indirecta,5,2025-09-01,Real,-34749.65
+WT,Costo Total,3,2025-09-01,Real,-635989.76
+WT,Margen Bruto,4,2025-09-01,Real,515332.7
+Wireline,Resultado Operativo,1,2025-09-01,Real,243902.74
+Wireline,Mano de Obra Directa,2,2025-09-01,Real,-144477.19
+Wireline,Mano de Obra Indirecta,5,2025-09-01,Real,-16547.45
+Wireline,Costo Total,3,2025-09-01,Real,-189933.18
+Wireline,Margen Bruto,4,2025-09-01,Real,53969.56
+Total base,Resultado Operativo,1,2025-09-01,Real,5369382.92
+Total base,Mano de Obra Directa,2,2025-09-01,Real,-1462831.93
+Total base,Mano de Obra Indirecta,5,2025-09-01,Real,-165474.5
+Total base,Costo Total,3,2025-09-01,Real,-2795110.63
+Total base,Margen Bruto,4,2025-09-01,Real,2574272.3
+Fractura,Resultado Operativo,1,2025-10-01,Real,3285559.32
+Fractura,Mano de Obra Directa,2,2025-10-01,Real,-669544.69
+Fractura,Mano de Obra Indirecta,5,2025-10-01,Real,-69499.29
+Fractura,Costo Total,3,2025-10-01,Real,-1482631.14
+Fractura,Margen Bruto,4,2025-10-01,Real,1802928.18
+SCBP,Resultado Operativo,1,2025-10-01,Real,697343.48
+SCBP,Mano de Obra Directa,2,2025-10-01,Real,-294511.0
+SCBP,Mano de Obra Indirecta,5,2025-10-01,Real,-44678.12
+SCBP,Costo Total,3,2025-10-01,Real,-480836.07
+SCBP,Margen Bruto,4,2025-10-01,Real,216507.41
+WT,Resultado Operativo,1,2025-10-01,Real,1308300.8
+WT,Mano de Obra Directa,2,2025-10-01,Real,-378196.58
+WT,Mano de Obra Indirecta,5,2025-10-01,Real,-34749.65
+WT,Costo Total,3,2025-10-01,Real,-722687.38
+WT,Margen Bruto,4,2025-10-01,Real,585613.42
+Wireline,Resultado Operativo,1,2025-10-01,Real,248926.26
+Wireline,Mano de Obra Directa,2,2025-10-01,Real,-143884.84
+Wireline,Mano de Obra Indirecta,5,2025-10-01,Real,-16547.45
+Wireline,Costo Total,3,2025-10-01,Real,-212809.87
+Wireline,Margen Bruto,4,2025-10-01,Real,36116.38
+Total base,Resultado Operativo,1,2025-10-01,Real,5650932.44
+Total base,Mano de Obra Directa,2,2025-10-01,Real,-1486137.11
+Total base,Mano de Obra Indirecta,5,2025-10-01,Real,-165474.5
+Total base,Costo Total,3,2025-10-01,Real,-2898964.46
+Total base,Margen Bruto,4,2025-10-01,Real,2751967.98
+Fractura,Resultado Operativo,1,2025-11-01,Real,3583381.63
+Fractura,Mano de Obra Directa,2,2025-11-01,Real,-645390.0
+Fractura,Mano de Obra Indirecta,5,2025-11-01,Real,-69499.29
+Fractura,Costo Total,3,2025-11-01,Real,-1339620.9
+Fractura,Margen Bruto,4,2025-11-01,Real,2243760.72
+SCBP,Resultado Operativo,1,2025-11-01,Real,800444.86
+SCBP,Mano de Obra Directa,2,2025-11-01,Real,-283798.81
+SCBP,Mano de Obra Indirecta,5,2025-11-01,Real,-44678.12
+SCBP,Costo Total,3,2025-11-01,Real,-501963.18
+SCBP,Margen Bruto,4,2025-11-01,Real,298481.68
+WT,Resultado Operativo,1,2025-11-01,Real,1233152.8
+WT,Mano de Obra Directa,2,2025-11-01,Real,-380046.13
+WT,Mano de Obra Indirecta,5,2025-11-01,Real,-34749.65
+WT,Costo Total,3,2025-11-01,Real,-635061.87
+WT,Margen Bruto,4,2025-11-01,Real,598090.93
+Wireline,Resultado Operativo,1,2025-11-01,Real,234354.28
+Wireline,Mano de Obra Directa,2,2025-11-01,Real,-136539.51
+Wireline,Mano de Obra Indirecta,5,2025-11-01,Real,-16547.45
+Wireline,Costo Total,3,2025-11-01,Real,-191041.53
+Wireline,Margen Bruto,4,2025-11-01,Real,43312.75
+Total base,Resultado Operativo,1,2025-11-01,Real,5968360.23
+Total base,Mano de Obra Directa,2,2025-11-01,Real,-1445774.45
+Total base,Mano de Obra Indirecta,5,2025-11-01,Real,-165474.5
+Total base,Costo Total,3,2025-11-01,Real,-2667687.47
+Total base,Margen Bruto,4,2025-11-01,Real,3300672.76
+Fractura,Resultado Operativo,1,2025-12-01,Real,3266466.46
+Fractura,Mano de Obra Directa,2,2025-12-01,Real,-892165.0
+Fractura,Mano de Obra Indirecta,5,2025-12-01,Real,-90349.08
+Fractura,Costo Total,3,2025-12-01,Real,-1483489.45
+Fractura,Margen Bruto,4,2025-12-01,Real,1782977.01
+SCBP,Resultado Operativo,1,2025-12-01,Real,725009.55
+SCBP,Mano de Obra Directa,2,2025-12-01,Real,-360699.69
+SCBP,Mano de Obra Indirecta,5,2025-12-01,Real,-58081.55
+SCBP,Costo Total,3,2025-12-01,Real,-499945.28
+SCBP,Margen Bruto,4,2025-12-01,Real,225064.27
+WT,Resultado Operativo,1,2025-12-01,Real,1376382.76
+WT,Mano de Obra Directa,2,2025-12-01,Real,-496688.49
+WT,Mano de Obra Indirecta,5,2025-12-01,Real,-45174.54
+WT,Costo Total,3,2025-12-01,Real,-870442.34
+WT,Margen Bruto,4,2025-12-01,Real,505940.42
+Wireline,Resultado Operativo,1,2025-12-01,Real,295132.56
+Wireline,Mano de Obra Directa,2,2025-12-01,Real,-186815.24
+Wireline,Mano de Obra Indirecta,5,2025-12-01,Real,-21511.69
+Wireline,Costo Total,3,2025-12-01,Real,-267256.73
+Wireline,Margen Bruto,4,2025-12-01,Real,27875.83
+Total base,Resultado Operativo,1,2025-12-01,Real,5776251.15
+Total base,Mano de Obra Directa,2,2025-12-01,Real,-1936368.42
+Total base,Mano de Obra Indirecta,5,2025-12-01,Real,-215116.85
+Total base,Costo Total,3,2025-12-01,Real,-3121133.8
+Total base,Margen Bruto,4,2025-12-01,Real,2655117.35
