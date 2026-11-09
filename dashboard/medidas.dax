@@ -1,0 +1,76 @@
+// Medidas del dashboard
+// P&L: MOD y MOI vienen en negativo en el origen, se les cambia el signo
+// MO = MOD + MOI
+
+RO USD =
+CALCULATE (
+    SUM ( 'P&L'[Valor] ),
+    'P&L'[Concepto] = "Resultado Operativo",
+    'P&L'[Escenario] = "Real"
+)
+
+MOD USD =
+- CALCULATE (
+    SUM ( 'P&L'[Valor] ),
+    'P&L'[Concepto] = "Mano de Obra Directa",
+    'P&L'[Escenario] = "Real"
+)
+
+MOI USD =
+- CALCULATE (
+    SUM ( 'P&L'[Valor] ),
+    'P&L'[Concepto] = "Mano de Obra Indirecta",
+    'P&L'[Escenario] = "Real"
+)
+
+MO USD = [MOD USD] + [MOI USD]
+
+
+// ---------- KPI 1: Ratio RO / MO ----------
+// Total: hoja general del P&L, no depende del filtro de línea
+// Para un período se divide la suma del RO por la suma de la MO (no se promedian los ratios mensuales)
+Ratio RO / MO total =
+DIVIDE (
+    CALCULATE ( [RO USD], REMOVEFILTERS ( Lineas ), Lineas[Línea de servicio] = "Total base" ),
+    CALCULATE ( [MO USD], REMOVEFILTERS ( Lineas ), Lineas[Línea de servicio] = "Total base" )
+)
+
+// Por línea: solo cuando hay una línea en contexto
+Ratio RO / MO línea =
+IF (
+    HASONEVALUE ( Lineas[Línea de servicio] ),
+    DIVIDE ( [RO USD], [MO USD] )
+)
+
+% del RO de las líneas =
+DIVIDE ( [RO USD], CALCULATE ( [RO USD], REMOVEFILTERS ( Lineas ), Lineas[Es línea] = TRUE () ) )
+
+% de la MO de las líneas =
+DIVIDE ( [MO USD], CALCULATE ( [MO USD], REMOVEFILTERS ( Lineas ), Lineas[Es línea] = TRUE () ) )
+
+
+// ---------- KPI 2: % de horas extras sobre el costo laboral ----------
+HE 50 USD = SUM ( 'Costo Salarial'[Horas extras 50% USD] )
+
+HE 100 USD = SUM ( 'Costo Salarial'[Horas extras 100% USD] )
+
+HE 50 + 100 USD = [HE 50 USD] + [HE 100 USD]
+
+Costo Laboral USD = SUM ( 'Costo Salarial'[Costo Laboral USD] )
+
+% HE sobre costo laboral =
+DIVIDE ( [HE 50 + 100 USD], [Costo Laboral USD] )
+
+
+// ---------- KPI 3: Costo laboral por persona ----------
+// Suma de dotación de los meses del período = personas-mes
+Dotación (personas-mes) = SUM ( 'Costo Salarial'[Dotación] )
+
+Costo por persona USD =
+DIVIDE ( [Costo Laboral USD], [Dotación (personas-mes)] )
+
+// Dotación del último mes con datos en el período elegido (para la tarjeta)
+Dotación último mes =
+VAR UltimoMes = MAX ( 'Costo Salarial'[Mes] )
+RETURN
+    CALCULATE ( SUM ( 'Costo Salarial'[Dotación] ), 'Costo Salarial'[Mes] = UltimoMes )
